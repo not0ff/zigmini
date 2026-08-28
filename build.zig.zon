@@ -1,0 +1,13 @@
+.{
+    .name = .zigmini,
+    .version = "0.0.1",
+    .dependencies = .{
+        .tls = .{
+            .url = "https://github.com/ianic/tls.zig/archive/refs/heads/zig-0.16.x.tar.gz",
+            .hash = "tls-0.1.0-ER2e0jGpBgCkVC-Yp12NgSdHNUtZr52MleJ8roHlUa54",
+        },
+    },
+    .minimum_zig_version = "0.16.0",
+    .paths = .{""},
+    .fingerprint = 0x90c7e5707a133760,
+}
